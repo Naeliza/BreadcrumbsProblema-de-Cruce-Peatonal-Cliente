@@ -25,12 +25,10 @@ dotnet build
 
 dotnet run
 
-
 2. Sigue las instrucciones en la consola para interactuar con el simulador de ascensor.
 
 3. Puedes presionar el boton como peaton para cruzar (s). 
 
-4. Para salir del programa, escribe `exit` y presiona Enter.
 
 ## Repositorio del servidor
 
