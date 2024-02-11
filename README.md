@@ -40,8 +40,8 @@ Si encuentras algún problema o tienes alguna sugerencia para mejorar este clien
 
 ## Licencia
 
-Este proyecto está bajo la [Licencia MIT](LICENSE).
-
+Este proyecto está bajo la [Licencia MIT.
+](https://github.com/Naeliza/Problema-de-Cruce-Peatonal-Cliente/tree/master?tab=MIT-1-ov-file#)
 # ¿Interesado/da en aprender más?
 
 Sitio web: [Naeliza.com](https://naeliza.com/)
